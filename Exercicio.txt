@@ -1,0 +1,18 @@
+PP.1.2. Exemplifique a stemização e a lemazação de um texto, em língua portuguesa. Ilustre
+um caso onde textos diferentes conduzem a uma mesma saída através do stemming ou
+lemmazaon. Considere como saída um vetor ordenado contendo lemas e stems. 
+
+
+Stemização e lematização são formas de simplificar palavras em um texto para entender melhor o que estão dizendo.
+
+Na stemização, a ideia é cortar pedaços do final das palavras para deixá-las mais básicas. Por exemplo, "voando" vira "voand".
+
+Já na lematização, a ideia é olhar para a palavra como um todo e reduzi-la à sua forma principal. Por exemplo, "voando" pode virar "voar".
+
+E às vezes, mesmo que as frases sejam diferentes, 
+algumas palavras acabam ficando iguais depois de passarem pelo processo de simplificação, 
+como "voando" que pode virar "voand" na stemização ou "voar" na lematização.
+ Isso acontece porque essas palavras têm formas básicas parecidas, mesmo em contextos diferentes.
+
+
+https://github.com/fabriciogmc/natural_language_processing
