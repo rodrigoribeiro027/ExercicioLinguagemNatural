@@ -5,7 +5,7 @@ Exercício Processamento de Linguagem Natural
   
 Crie uma pasta e realize um clone do repositório
 ```
-git clone https://github.com/marynhaSjc/API-Gfour---Fatec-SJC.git](https://github.com/rodrigoribeiro027/ExercicioLinguagemNatural)
+git clone https://github.com/rodrigoribeiro027/ExercicioLinguagemNatural
 ```
 
 
